@@ -76,4 +76,4 @@ module grup_pahare(tip)
 
 //pahare_matrice(1,1);
 //pahare_pe_cerc(10,200);
-grup_pahare("matrice");
+grup_pahare("cerc");
